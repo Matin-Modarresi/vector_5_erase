@@ -11,7 +11,7 @@ int  find_Max(int,int);
 
 int main(){
 	
-	int n , m;
+	int n , m , k;
 	cin >> n >> m;
 	int n1=(n+1)/2+1;
 	int **a = new int*[n1];
