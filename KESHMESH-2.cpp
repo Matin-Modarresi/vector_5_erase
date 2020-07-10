@@ -5,11 +5,11 @@ using namespace std;
 void set_Array(int,int,int **);
 
 int main()
-{
+{	
 	int n , m;
 	cin >> n >> m;
 	int **a = new int*[n];
-	cout << "No\n";
+	cout << "\nHello world\n";
 	set_Array(n,m,a);
 }
 

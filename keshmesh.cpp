@@ -17,6 +17,10 @@ int main(){
 	int **a = new int*[n1];
 	setArray( n , m , a);
 	keshmesh(n, m , a);
+	
+	cout << "\n";
+	cout << "hello world";
+	cout << "\n";
 
 }
 
