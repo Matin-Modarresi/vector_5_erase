@@ -9,7 +9,7 @@ int main()
 	int n , m;
 	cin >> n >> m;
 	int **a = new int*[n];
-	
+	cout << "No\n";
 	set_Array(n,m,a);
 }
 
